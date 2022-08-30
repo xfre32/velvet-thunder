@@ -1,1 +1,2 @@
 This is the first version of the first file being added to a git repository.
+This is the second version of the first file being added to the git repository.
